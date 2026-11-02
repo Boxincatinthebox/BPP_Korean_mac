@@ -4,7 +4,7 @@
   "bppVersion": "5.7.0.prod",
   "notes": "macOS build (Windows-only files excluded)",
   "gameVersions": [],
-  "packageUrl": "https://YOUR-HOST/BazaarPlusPlusKorean_mac_v5.7.0-ko.2.zip",
+  "packageUrl": "https://github.com/Boxincatinthebox/BPP_Korean_mac/releases/download/v5.7.0-ko.2/BazaarPlusPlusKorean_mac_v5.7.0-ko.2.zip",
   "packageSha256": "47a88df3803a2593c4672e0a830bdd17c2478e06faa63257090a348e42d15607",
   "packageSize": 3863364,
   "files": [
