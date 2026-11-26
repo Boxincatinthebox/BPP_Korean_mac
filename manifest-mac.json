@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "6.4.0-ko.1",
-  "bppVersion": "6.4.0.prod",
+  "version": "6.4.3-ko.5.1",
+  "bppVersion": "6.4.3.prod",
   "notes": "macOS build (Windows-only files excluded)",
   "gameVersions": [],
-  "packageUrl": "https://github.com/Boxincatinthebox/BPP_Korean_mac/releases/download/v6.4.0-ko.1/BazaarPlusPlusKorean_mac_v6.4.0-ko.1.zip",
-  "packageSha256": "5cb2156f2b0284744a789278383aad08fc5719e998cb98f2cbd1985f9bbf0481",
-  "packageSize": 14655281,
+  "packageUrl": "https://github.com/Boxincatinthebox/BPP_Korean_mac/releases/download/v6.4.3-ko.5.1/BazaarPlusPlusKorean_mac_v6.4.3-ko.5.1.zip",
+  "packageSha256": "5f3ef50c16a0417fd5e704bf4067b81f949e294688cf7bc7439b80dc3b3333eb",
+  "packageSize": 14871965,
   "files": [
     {
       "path": "BazaarPlusPlusV6/fonts/DNFForgedBlade-Medium.otf",
@@ -64,9 +64,14 @@
       "size": 27136
     },
     {
+      "path": "BepInEx/plugins/BazaarItemPairs.dll",
+      "sha256": "d4563aec0198e134aebe8f85d248397156aec1b2c0690b79803eb442d319a0f2",
+      "size": 123904
+    },
+    {
       "path": "BepInEx/plugins/BazaarKoFontStyle.dll",
-      "sha256": "41e387d52c5dd9fe256a5c1c69c4bdc9c43c1631b5327ff09e1b454c3c3d8a41",
-      "size": 41984
+      "sha256": "6368287d8ad5138ffae0072d033a60ad69e9d4e34726228ac5e21c0fc9bb4db8",
+      "size": 65536
     },
     {
       "path": "BepInEx/plugins/BazaarKoGameText.dll",
@@ -74,19 +79,24 @@
       "size": 51712
     },
     {
+      "path": "BepInEx/plugins/BazaarKoKeybinds.dll",
+      "sha256": "a8fd6fadefcec0054114c1b60106b5aa58f043d36adb3172046750a825dc7d60",
+      "size": 42496
+    },
+    {
       "path": "BepInEx/plugins/BazaarKoUpdate.dll",
-      "sha256": "aaa8fd407874afc1cd308fb0c3fbc51e6987af409e6fc169bd70e1041b76b674",
-      "size": 38400
+      "sha256": "bad40f1b69ad7bad81018494e8266d7230b486bac410a2d1b7cc8d4018f92965",
+      "size": 63488
     },
     {
       "path": "BepInEx/plugins/BazaarKorean.version",
-      "sha256": "bfe15657e5f14934b14b1ba576f63bb669f5d9a0ae9cf9e6bc2b5a25bdec91ba",
-      "size": 10
+      "sha256": "44132da6a69a27d38253d13ecea3fd9d816de7b335090652f968e734caedc7c9",
+      "size": 12
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.Core.dll",
-      "sha256": "e6b16b9b42b42914ba5b392b414f55f68038ca681dad95e8c56af7f16033a928",
-      "size": 1713664
+      "sha256": "19124c0bc7202f1a6addabecaa8fa676cdf667d986702228756b4ab774b5ef22",
+      "size": 1729536
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.KoreanSlider.dll",
@@ -95,18 +105,18 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.ModApi.dll",
-      "sha256": "e5a4ca939f9f22b0ef24bf542b130d27e2312f0f243f5b758fdcd9a969756eb8",
-      "size": 104960
+      "sha256": "f2f3070e2db22bf5d91507ca939374d0abc07230bc4d28bad8bb261fb66023bb",
+      "size": 107520
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.Storage.dll",
-      "sha256": "6a026138738ce876cda11b9d3eba0130f34798bac845b8ce80f713a32232a615",
-      "size": 198144
+      "sha256": "676ab04ee7a039ae81808e0c5e7169303d1baa207b12de44d5fe3e7c823240e3",
+      "size": 200192
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.dll",
-      "sha256": "913825f2775272af17df40ef870f058926c69ad669ba559ae50c80ca111a6144",
-      "size": 6086656
+      "sha256": "b42ff112b19278599aff735815d73249a6204ddecc5294997c5777c31adf9663",
+      "size": 6165504
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.history-database.json",
@@ -115,18 +125,28 @@
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.managed-manifest.txt",
-      "sha256": "e9a2230ba5568657d83e8f891f5364979d9b5009065e3464d607ea612e025d5a",
+      "sha256": "acb70d3d6ab410b5818b5253637093809412eefd63b2c3c7c82c8eeb1895e50f",
       "size": 1863
     },
     {
       "path": "BepInEx/plugins/BazaarPlusPlus.version",
-      "sha256": "6ac81e2e2930836e32cb3638ca282de706e3c1b1da371133197335db385bc309",
+      "sha256": "120f5a1d2630bde6d69b9cfeaa2d3069087617e5fd8944d2ac72818dfe972d69",
       "size": 12
     },
     {
+      "path": "BepInEx/plugins/BazaarQuestGuide.dll",
+      "sha256": "754c938f05d607ea55151894d1d5e501f49853cf632233e9affd203ded1b7992",
+      "size": 84992
+    },
+    {
+      "path": "BepInEx/plugins/BazaarSpeechBubble.dll",
+      "sha256": "958527fc86ad7979156a8d8812af9c7cc07d1fe94fd0d6e8e48b3c8fdae4a696",
+      "size": 67072
+    },
+    {
       "path": "BepInEx/plugins/BazaarTagTools.dll",
-      "sha256": "668e76cf19637e36980b72da10df5ddf469a0907dcdcc0ebde955881814eba62",
-      "size": 81920
+      "sha256": "3a4775d428529a30818398517241036ed2a8dbe0df4eeef1b7e6bc3d8e2d56d2",
+      "size": 105472
     },
     {
       "path": "BepInEx/plugins/BazaarVolumeBoost.dll",
@@ -215,8 +235,8 @@
     },
     {
       "path": "README-KO.md",
-      "sha256": "af9a22a787144bebf1cd0145826314a3194dfa8f8c1e4bda180db1036c645c35",
-      "size": 27867
+      "sha256": "ab11ee29c7fba489ab2edddf12d04302394e9b5488670c90e089d61f07b94809",
+      "size": 46584
     }
   ]
 }
